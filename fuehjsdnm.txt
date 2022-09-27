@@ -1,0 +1,17 @@
+Common generic video files include:
+moving pictures expert group layer 4 : These files have a .mp4 file extension . It  is not a single file format but it is a multimedia container which is used for storing video files,still images,audio files, subtitles e.t.c
+
+Common generic audio files include:
+Moving pictures expert group layer 3:
+these files have a .mp3 file extension. It is a compressed file format used for listening audio files . this format cannot store still or moving images
+
+Common generic files used for web authoring include:
+cascading style sheet : These files have a .css file extension. This is a style sheet saved in cascading style sheet format and is attached to one or more web pages to define the pages colour sheme,fonts,e.t.c
+
+Hypertext markup language : these files have a .htm file extension. This is a text based language used to create content that is used to display as a web page
+
+Common generic compressed files include: 
+Roshal archive : these files have a .rar file extension. This is a continer which can hold any file type in compressedformat. it is used to reduce number ofbytes needed to save a file eiether to save storage space or number of bytes
+
+Zip: these files have a .zip file extension. This is a continer which can hold any file type in compressedformat. it is used to reduce number ofbytes needed to save a file eiether to save storage space or number of bytes
+
